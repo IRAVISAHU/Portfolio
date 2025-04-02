@@ -50,8 +50,8 @@ export const metadata: Metadata = {
     title: "Ravi Sahu — Full Stack Engineer",
     description:
       "Full Stack Developer With Over 2 Years Of Experience In Crafting Scalable And High-Performance Web Applications. ",
-    url: "https://arpit-dev-portfolio.vercel.app/",
-    siteName: "arpit-dev-portfolio.vercel.app",
+    url: "https://portfolio-swart-seven-66.vercel.app/",
+    siteName: "ravi-dev-portfolio.vercel.app",
     locale: "en-US",
     type: "website",
   },
